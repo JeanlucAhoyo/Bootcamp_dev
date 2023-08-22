@@ -1,9 +1,9 @@
 # HTML Skills
 
 **Learn heading elements**
-``
+```
 **Learn paragraph element**
-``
+```
 **Learn void elements**
 **Learn list elements**
 **Learn Nesting and indentation**
